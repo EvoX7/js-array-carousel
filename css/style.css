@@ -9,6 +9,8 @@ img {
     border: 2px solid white;
 }
 
+/* Class active  */
+
 .active {
     display: block;
 }
