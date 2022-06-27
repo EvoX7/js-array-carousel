@@ -27,3 +27,11 @@ h1 {
 }
 
 
+
+.carousel-container .pointers-container i.active {
+    color: rgb(255, 195, 15);
+    
+
+
+}
+
