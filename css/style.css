@@ -2,7 +2,9 @@
 
 
 img {
-    width: 100%;
+    width: 100%; /* Make images fill their container */
+    height: auto; /* Maintain aspect ratio */
+    max-width:100%; /* Set a maximum width for consistency */
     display: none;
     object-fit: cover;
     border-radius: 20px;
